@@ -77,9 +77,9 @@ export default function App() {
           >
             <div className="relative aspect-square rounded-full overflow-hidden border-8 border-white shadow-xl shadow-stone-200">
               <img 
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800" 
+                src="https://lh3.googleusercontent.com/d/1Is6BdLgGurW8qhnbX_IrIcI_4Di6-bRT" 
                 alt="張元誌"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover object-center"
               />
             </div>
           </motion.div>
